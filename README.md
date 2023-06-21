@@ -8,7 +8,6 @@ Exercício em Java sobre polimorfismo e herança  <br/>
 <p align="center">
   <a href="#rocket-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -72,7 +71,5 @@ Iphone (used) $ 400.00 (Manufacture date: 15/03/2017)
 #### Diagrama
 
 <img alt="Diagram" src=".github/2023-06-21.png" width="100%">
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
 

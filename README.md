@@ -68,7 +68,7 @@ Notebook $ 1100.00
 Iphone (used) $ 400.00 (Manufacture date: 15/03/2017)
 ```
 
-#### Diagrama
+#### Diagrama UML
 
 <img alt="Diagram" src=".github/2023-06-21.png" width="100%">
 
